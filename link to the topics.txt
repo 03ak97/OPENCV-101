@@ -1,0 +1,30 @@
+LINK = pyimagesearch.mykajabi.com/products/pyimagesearch-university-full-access-plan/categories/4663336/posts/15669928
+
+12 Lessons
+
+https://www.pyimagesearch.com/2021/01/20/opencv-load-image-cv2-imread/?_ga=2.36155616.1314483661.1636632308-1011363675.1636632308
+
+https://www.pyimagesearch.com/2021/01/20/opencv-getting-and-setting-pixels/?_ga=2.36155616.1314483661.1636632308-1011363675.1636632308
+
+https://www.pyimagesearch.com/2021/01/27/drawing-with-opencv/?_ga=2.36155616.1314483661.1636632308-1011363675.1636632308
+
+https://www.pyimagesearch.com/2021/02/03/opencv-image-translation/?_ga=2.36155616.1314483661.1636632308-1011363675.1636632308
+
+https://www.pyimagesearch.com/2021/01/20/opencv-rotate-image/?_ga=2.135707249.1314483661.1636632308-1011363675.1636632308
+
+https://www.pyimagesearch.com/2021/01/20/opencv-resize-image-cv2-resize/?_ga=2.225820378.1314483661.1636632308-1011363675.1636632308
+
+https://www.pyimagesearch.com/2021/01/20/opencv-flip-image-cv2-flip/?_ga=2.31290367.1314483661.1636632308-1011363675.1636632308
+
+https://www.pyimagesearch.com/2021/01/19/crop-image-with-opencv/?_ga=2.31290367.1314483661.1636632308-1011363675.1636632308
+
+https://www.pyimagesearch.com/2021/01/19/image-masking-with-opencv/?_ga=2.31290367.1314483661.1636632308-1011363675.1636632308
+
+https://www.pyimagesearch.com/2021/01/23/splitting-and-merging-channels-with-opencv/?_ga=2.203939792.1314483661.1636632308-1011363675.1636632308
+
+
+
+
+
+
+
